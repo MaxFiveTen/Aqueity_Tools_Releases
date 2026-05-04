@@ -1,0 +1,9 @@
+{
+  "version": "15.5.1",
+  "channel": "stable",
+  "installer_url": "https://github.com/MaxFiveTen/Aqueity_Tools_Releases/releases/download/v15.5.1/Aqueity_V15.5.1_Setup.exe",
+  "checksum_sha256": "dab59af7a2df1fff1c71ff8c6d4490bcde3f1dac70d1e13652bebef8522eaf5f",
+  "size_mb": 54.84,
+  "published_at": "05/04/2026 10:21:46",
+  "notes": "Aqueity Tools V15.5.1"
+}
